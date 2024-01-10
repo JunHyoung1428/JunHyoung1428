@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JunHyoung%20&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=F2C36A&section=header&text=JunHyoung%20Park&animation=twinkling&fontSize=40&fontAlign=80&fontColor=282828)
 - 🌱 I’m currently learning ...
 
   
 ![badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  ![badge](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=F2C36A&height=150&section=footer)
 <!--
 **JunHyoung1428/JunHyoung1428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
