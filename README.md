@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=F9BD4D&section=header&text=🎮JunHyoung%20Park&animation=twinkling&fontSize=40&fontAlign=75&fontColor=282828)
-- 🌱 I’m currently learning ...
+
+📑 **Learning ...**
 
   
 ![badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  ![badge](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
