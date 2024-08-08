@@ -10,14 +10,25 @@
 </a>
   
 
->📖 **Learning ...**
->>[![My Skills](https://skillicons.dev/icons?i=cs,unity,github)](https://skillicons.dev)
+## **Projects** 
+
+ 
+### **Team** <br/>
+> [Crime-Scene (추리 게임)](https://github.com/JunHyoung1428/Crime-Scene) <br/>
+> [Ma-Fi-Ya (멀티 플레이 게임)](https://github.com/JunHyoung1428/Ma-Fi-Ya-) <br/>
+
+
+### **Personal** <br/>
+> [Dungreed-Like](https://github.com/JunHyoung1428/Dungreed-Like) <br/>
+
+### **Toys & ETC**<br/>
+> [Unity-AudioVisualizer](https://github.com/JunHyoung1428/Unity-AudioVisualizer) </br>
+> [Unity-DungeonGenerator](https://github.com/JunHyoung1428/Unity-DungeonGenerator) </br>
+> [Hoyoverse-Auto-Daily-Check](https://github.com/JunHyoung1428/Hoyoverse-Auto-Daily-Check) </br>
+> [Arisu Dance(WPF App)](https://github.com/JunHyoung1428/Arisu-Dance) </br> 
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F9BD4D&height=125&section=footer)
-
-
-
-  
 
 <!--
 **JunHyoung1428/JunHyoung1428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,4 +43,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+>📖 **Learning ...** <br/>
+<br/>[![My Skills](https://skillicons.dev/icons?i=cs,unity,github)](https://skillicons.dev)
+
+
 -->
