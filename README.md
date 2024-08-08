@@ -13,15 +13,15 @@
 ## **Projects** 
 
  
-### **Team** <br/>
+### **👪 Team** <br/>
 > [Crime-Scene (추리 게임)](https://github.com/JunHyoung1428/Crime-Scene) <br/>
 > [Ma-Fi-Ya (멀티 플레이 게임)](https://github.com/JunHyoung1428/Ma-Fi-Ya-) <br/>
 
 
-### **Personal** <br/>
+### **🚶 Personal** <br/>
 > [Dungreed-Like](https://github.com/JunHyoung1428/Dungreed-Like) <br/>
 
-### **Toys & ETC**<br/>
+### **🤖 Toys & ETC**<br/>
 > [Unity-AudioVisualizer](https://github.com/JunHyoung1428/Unity-AudioVisualizer) </br>
 > [Unity-DungeonGenerator](https://github.com/JunHyoung1428/Unity-DungeonGenerator) </br>
 > [Hoyoverse-Auto-Daily-Check](https://github.com/JunHyoung1428/Hoyoverse-Auto-Daily-Check) </br>
