@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=125&color=F9BD4D&section=header&text=JunHyoung%20Park&animation=twinkling&fontSize=40&fontAlign=75&fontColor=282828&stroke=F9BD4D&descAlign=82&desc=🎮Gamer%+📄Developer&descSize=18&descAlignY=28&descColor=282828)
 
 
-
+***
 ## **Projects** 
 
  
@@ -22,6 +22,9 @@
 > [Unity-DungeonGenerator](https://github.com/JunHyoung1428/Unity-DungeonGenerator) </br>
 > [Arisu Dance(WPF App)](https://github.com/JunHyoung1428/Arisu-Dance) </br> 
 > [Hoyoverse-Auto-Daily-Check](https://github.com/JunHyoung1428/Hoyoverse-Auto-Daily-Check) </br>
+***
+<br/> 
+
 
 
 ```stl
