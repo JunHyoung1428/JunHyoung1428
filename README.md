@@ -1,5 +1,9 @@
 
-<div align="center"><img src ="https://github.com/user-attachments/assets/8ef32b74-c218-4208-8ae5-3421a3fb2943"/></div>
+<div align="center"><img src ="https://github.com/user-attachments/assets/8ef32b74-c218-4208-8ae5-3421a3fb2943"/>
+
+
+[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://festive-phlox-0d1.notion.site/JunHyoung-s-Notebook-d8db2581895f4372bad234d9d7d11ffb)
+</div>
 
 ## **Projects** 
 ***
